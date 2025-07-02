@@ -1,0 +1,2 @@
+# This is a simple java programs for recursion
+In Data Structures and Algorithms (DSA), recursion is a problem-solving technique where a function calls itself to solve smaller instances of the same problem until it reaches a base case.
